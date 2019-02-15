@@ -4,10 +4,10 @@
 
 # Project Description!
 
-- a chat/forum app where users acan interact about everything regarding soccer
+- a socccer forum app where users can interact about everything regarding soccer
 - soccer fans and afficionados
-- able to post and display comments
-- able to input comments
-- react, reactstrap, node js and express,postgreSQL
-- Able to post, dispalying and deleting comments and images
-- will have a form for writing and submitting messages,routes on the navBar that display specfic soccer content (news, rankings)
+- able to add and display posts from users
+- able to take in posts
+- react, reactstrap, node.js and express,postgreSQL
+- Able to post, dispaly, update and deleting posts and images
+- will have a form for submitting messages as well as routes on the navBar inclduing the landing page and the form page
